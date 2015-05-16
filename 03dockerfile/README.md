@@ -5,7 +5,7 @@ Build
 -----
 
 ```
-$ docker build -t mynginx20 .
+$ sudo docker build -t mynginx20 .
 ```
 
 Run
