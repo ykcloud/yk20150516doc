@@ -1,9 +1,15 @@
 Command
 =======
 
+Build
+-----
+
 ```
 $ sudo docker build -t mynginx20 .
 ```
+
+Run
+---
 
 ```
 $ docker run -it --rm mynginx20

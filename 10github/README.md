@@ -8,11 +8,17 @@ GitHub
 
 リポジトリ名 :: yk20150516-020-nginx
 
+準備
+----
+
 ```
 $ mkdir -p ~/tmp/nginx
 $ cp -r src ~/tmp/nginx
 $ cd ~/tmp/nginx/src
 ```
+
+コンテンツ作成
+--------------
 
 ```
 $ git init
@@ -22,5 +28,5 @@ $ git remote add origin https://github.com/ykcloud/yk20150516-20-nginx.git
 $ git push -u origin master
 ```
 
-Username: ykcloud
-Password: ykcloud1
+- Username :: ykcloud
+- Password :: ykcloud1

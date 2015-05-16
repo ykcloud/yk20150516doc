@@ -30,7 +30,7 @@ Reference
 - http://modegramming.blogspot.jp/2015/05/docker-docker-compose.html
 
 Lahman’s Baseball Database
-----
+--------------------------
 
 This project uses Lahman’s Baseball Database, which is copyright 1996-2015 by Sean Lahman.
 

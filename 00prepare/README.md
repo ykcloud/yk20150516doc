@@ -16,7 +16,7 @@ $ chmod 0600 ~/.ssh/ykcloud.pem
 ユーザーはykcloud001からykcloud020までの20個の中からセッションで割り当てられた
 ものを使ってください。
 
-以下ではykcloud020を割り当てられたケースで説明します。
+以降の説明ではykcloud020を割り当てられたケースで説明します。
 
 ```
 $ ssh -i ~/.ssh/ykcloud.pem ykcloud020@54.84.7.39
